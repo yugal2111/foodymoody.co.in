@@ -144,6 +144,7 @@ html{
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 204px;
 
 }
 
@@ -225,6 +226,16 @@ footer{
     background-color: brown;
     color: white;
     margin: 12px;
+    border-radius: 10px;
+    font-size: 1.5rem;
+}
+
+.btn1{
+    padding: 6px 20px;
+    border: 2px solid white;
+    background-color: brown;
+    color: white;
+    margin: 2px;
     border-radius: 10px;
     font-size: 1.5rem;
 }
