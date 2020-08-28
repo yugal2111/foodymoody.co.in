@@ -8,6 +8,11 @@
     padding-bottom: 8px;
 }
 
+#navbar ul li a:hover{
+    color:black;
+    background-color: white;
+}
+
 #home{
     height: 280px;
     padding: 0px 68px;
